@@ -1,12 +1,7 @@
 {
-  "HTML222222222222222": "HyperText Markup Language",
-  "CSS": "Cascading Style Sheet",
-  "JS": "JavaScript",
-  "JSON": "JavaScript Object Notation",
-  "AJAX": "Asynchronous JavaScript and XML",
-  "SaaS": "Software as a Service",
-  "IaaS": "Infrastructure as a Service",
-  "PaaS": "Platform as a Service",
-  "WaaS": "Whatever as a Service",
-  "SsHF": "Stefan says HAPPY FRIDAY"
+  "Swedish Massage": "€100.00",
+  "Aromatherapy Masage": "€110.00",
+  "Deep Muscle Massage": "€120.00",
+  "Hot Stone Massage": "€120.00",
+  "Balinese Massage": "€100.00"
 }
